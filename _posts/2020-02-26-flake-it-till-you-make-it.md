@@ -6,8 +6,8 @@ cover-img: /assets/img/IMG_6235.png
 share-img: IMG_6235.png
 thumbnail-img: /assets/img/IMG_6235.png
 share-img: IMG_6235.png
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [lamba, gece lambası, el feneri]
+author: Atölye Garaj
 ---
 
 Odanız için fonsiyonel sıra dışı bir gece lambası olduğu gibi el feneri olarak da kullanabilirsiniz. Lamba diğer ürünlerde olduğu gibi kişiselleştirilebilir, parlaklık ayarı, uzaktan kumanda, şarj edilebilir veya pili değiltirilebilir.Tamamem sizin ihtiyaç istek ve bütçenize göre dizayn edilebilir.
