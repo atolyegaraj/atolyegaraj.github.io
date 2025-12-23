@@ -2,7 +2,8 @@
 layout: post
 title: Gece LAmbası El Feneri Torch
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/IMG_6235.png
+share-img: IMG_6235.png
 thumbnail-img: /assets/img/IMG_6235.png
 share-img: IMG_6235.png
 tags: [books, test]
