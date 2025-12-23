@@ -3,7 +3,7 @@ layout: post
 title: Gece LAmbası El Feneri Torch
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/IMG_6235.png
 share-img: IMG_6235.png
 tags: [books, test]
 author: Sharon Smith and Barry Simpson
