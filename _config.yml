@@ -21,11 +21,11 @@ author: Cem Akar
 
 navbar-links:
   Hakkında: "aboutme"
-  Resources:
+  Kaynaklar:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-read_more: Devamı
+Devamı: Devamı
 ################
 # --- Logo --- #
 ################
