@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [Acapulco Chair]
 comments: true
 mathjax: true
-author: Cem AKAR
+author: Atölye Garaj
 ---
 
 {: .box-success}
