@@ -3,6 +3,7 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
+  read_more                  : "Projeyi incele"
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
