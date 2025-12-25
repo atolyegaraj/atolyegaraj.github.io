@@ -11,7 +11,7 @@ mathjax: true
 author: Atölye Garaj
 ---
 
-{: .box-success}
+
 Sandalye yapımı için demir çubuklar kaynak makinesi, boya için komprasör, oturma yeri için de ip kullandım Profile uygun şekli vermek için de bir bükücü. İstek üzerine üretileceğinden renk ve sallanır yada sabit olması konsunda karar sizin 
 
 
@@ -41,6 +41,7 @@ When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.gi
 
 ![Crepe](/assets/img/crepe.jpg)
 
+{: .box-success}
 If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
 ![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
