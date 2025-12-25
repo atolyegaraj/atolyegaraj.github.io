@@ -11,70 +11,18 @@ author: Atölye Garaj
 ---
 
 {: .box-success}
-Sandalye yapımı için demir çubuklar kaynak makinesi, boya için komprasör, oturma yeri için de ip kullandım Profile uygun şekli vermek için de bir bükücü. [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - İstek üzerine üretileceğinden renk konusunda ve sallanır yada sabit olması konsunda karar sizin [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Sandalye yapımı için demir çubuklar kaynak makinesi, boya için komprasör, oturma yeri için de ip kullandım Profile uygun şekli vermek için de bir bükücü. İstek üzerine üretileceğinden renk ve sallanır yada sabit olması konsunda karar sizin 
 
-**Here is some bold text**
 
-## Here is a secondary heading
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-![Sandalye](/assets/img/IMG_6247.png)
+![Sandalye1](/assets/img/IMG_6247.png){: .mx-auto.d-block :}
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Sandalye2](/assets/img/IMG_6248.png){: .mx-auto.d-block :}
 
-Here's a code chunk:
+![Sandalye3](/assets/img/IMG_6249.png){: .mx-auto.d-block :}
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
 
 ### Warning
 
