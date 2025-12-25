@@ -35,7 +35,7 @@ How about a yummy crepe?
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
-![Sandalye](https://github.com/atolyegaraj/atolyegaraj.github.io/blob/master/assets/img/IMG_6249.png)
+![Sandalye](/assets/img/IMG_6247.png)
 
 It can also be centered!
 
