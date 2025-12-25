@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Acapulco Sandalye
-subtitle: Bir meksika sandalyesi çocuk odası için yapmıştım.
+subtitle: Bir meksika sandalyesi
+cover-img: /assets/img/IMG_6247.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Acapulco Chair]
