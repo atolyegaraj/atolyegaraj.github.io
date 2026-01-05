@@ -14,6 +14,6 @@ author: Atölye Garaj
 
 Oyun Blokları Red Stone
 
-![IMG_6278-1](https://github.com/atolyegaraj/atolyegaraj.github.io/blob/master/assets/img/IMG_6278-1.png)
+![IMG_6278-1](/assets/img/IMG_6278-1.png)
 
 ![IMG_6277-1](https://github.com/atolyegaraj/atolyegaraj.github.io/blob/master/assets/img/IMG_6277-1.png)
