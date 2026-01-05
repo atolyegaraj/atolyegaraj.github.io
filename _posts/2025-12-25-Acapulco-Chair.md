@@ -12,7 +12,7 @@ author: Atölye Garaj
 ---
 
 
-Sandalye yapımı için demir çubuklar kaynak makinesi, boya için komprasör, oturma yeri için de ip kullandım Profile uygun şekli vermek için de bir bükücü. İstek üzerine üretileceğinden renk ve sallanır yada sabit olması konsunda karar sizin 
+Sandalye bir yetişkinini rahatlıkla bacaklarını toplayıp oturabileceği büyüklüktedir. Yapımı için demir çubuklar kaynak makinesi, boya için komprasör, oturma yeri için de ip kullandım Profile uygun şekli vermek için de bir bükücü. İstek üzerine üretileceğinden renk ve sallanır yada sabit olması konsunda karar sizin 
 
 
 ![Sandalye1](/assets/img/IMG_6247.png){: .mx-auto.d-block :}
