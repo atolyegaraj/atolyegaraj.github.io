@@ -23,3 +23,11 @@ Oyun Blokları Torch Gece Lambası El Feneri
 ![IMG_6285-1](/assets/img/IMG_6285-1.png)
 
 ![IMG_6251-1](/assets/img/IMG_6251-1.png)
+
+Portatif Karpuz Lamba 
+
+Type C şarj girişli, bluetooth ile cep telefonundan kontrol, RGB tüm renklerde ayarlanabilir, parlaklık ayarlı, müziğe göre renk değiştirebilir
+
+![IMG_6257-1](/assets/img/IMG_6257-1.png)
+
+![IMG_6258-1](/assets/img/IMG_6258-1.png)
