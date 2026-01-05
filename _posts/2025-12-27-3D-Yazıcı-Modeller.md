@@ -4,7 +4,7 @@ title: 3D Yazıcı
 subtitle: Kendi çizimleriminde içinde bulunduğu modeller
 cover-img: /assets/img/P2S_bambulab_australia.png.png
 share-img: IMG_6235.png
-thumbnail-img: /assets/img/IMG_6238.png
+thumbnail-img: /assets/img/P2S%20Combo.png
 share-img: IMG_6247.png
 tags: [lamba, gece lambası, el feneri]
 author: Atölye Garaj
