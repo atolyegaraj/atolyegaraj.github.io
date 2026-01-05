@@ -17,3 +17,9 @@ Oyun Blokları Red Stone
 ![IMG_6278-1](/assets/img/IMG_6278-1.png)
 
 ![IMG_6277-1](/assets/img/IMG_6277-1.png)
+
+Oyun Blokları Torch Gece Lambası El Feneri
+
+![IMG_6285-1](/assets/img/IMG_6285-1.png)
+
+![IMG_6251-1](/assets/img/IMG_6251-1.png)
