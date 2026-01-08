@@ -10,7 +10,7 @@ tags: [bahçe mobilyası, balkon mobilyası, mobilya]
 author: Atölye Garaj
 ---
 
-Balkon veya bahçeniz için kullanışlı ahşap mobilya takımı. İstenilen renk veya mıdel çalışılabilir. Tasarım ve üretim zaman alacağı dikkate alınmalı.
+Balkon veya bahçeniz için kullanışlı ahşap mobilya takımı. İstenilen renk veya model çalışılabilir. Tasarım ve üretim zaman alacağı dikkate alınmalı.
 
 ![IMG_6262](/assets/img/IMG_6260.png)
 
