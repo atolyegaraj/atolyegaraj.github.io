@@ -51,10 +51,10 @@ round-avatar: false
 social-network-links:
   email: "atolyegaraj26@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  #facebook: deanattali
+  github: atolyegaraj
+  #twitter: daattali
+ # patreon: DeanAttali
   youtube: "@AtölyeGaraj-d4p"
   whatsapp: 905302011026
 #  medium: yourname
